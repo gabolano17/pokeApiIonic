@@ -1,0 +1,7 @@
+{
+  "name": "PokeApiIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
