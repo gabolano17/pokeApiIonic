@@ -25,3 +25,20 @@
 #container a {
   text-decoration: none;
 }
+
+.paginator ::ng-deep .ngx-pagination li{
+  border-radius: 10px;
+}
+
+.paginator ::ng-deep .ngx-pagination li a{
+  color: #fff;
+}
+
+.paginator ::ng-deep .ngx-pagination li a:hover{
+  color: red;
+  border-radius: 10px;
+}
+
+.paginator ::ng-deep .ngx-pagination .current {
+  background: red;
+}
